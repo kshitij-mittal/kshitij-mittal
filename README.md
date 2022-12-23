@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kshitij-mittal
+- 👋 Hi, I’m Kshitij (the K is silent)
 - 👀 I am interested in the intersection of Data Science, Behavioral Science and Marketing Analytics
 - 🌱 I am currently pursuing my Master's in Data Science (Analytics) at the University of Chicago
 - 👔 Prior to my masters, I had been working as a Data Analyst and Management Consultant at ZS Associates for 3 years
